@@ -7,5 +7,7 @@ OpenCV Basics Project
 - Blurring techniques
 - Thresholding (global & adaptive)
 - Edge detection (Canny)
+- Contours detection
+- Drawing
 
 Each script demonstrates a core concept in computer vision.
